@@ -1,1 +1,0 @@
-print ("esse é o script 2")
